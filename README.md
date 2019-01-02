@@ -1,8 +1,8 @@
 # Magnetic support for MPU Accelerometer
 
 ### BOM:
-    ##### MPU6050
-    ##### 5 8mmx2mm magnets
+    > MPU6050
+    > 5 8mmx2mm magnets
 
 
 ![alt text](https://raw.githubusercontent.com/Klebiano/Magnetic-support-for-MPU-Accelerometer/master/arender1.png)
