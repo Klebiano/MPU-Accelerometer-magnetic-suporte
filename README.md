@@ -1,1 +1,2 @@
-# MPU-Accelerometer-magnetic-suporte
+# Magnetic support for MPU Accelerometer
+
